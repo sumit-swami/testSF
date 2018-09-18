@@ -1,0 +1,123 @@
+{
+  "itemList": [
+    {
+      "itemNumber": "105650296",
+      "legacyItemNumbers": [
+        "2712346"
+      ],
+      "gtins": [
+        {
+          "id": "0048526099535",
+          "type": "EAN13",
+          "additionalProperties": {
+            "isPrimaryBarcode": true
+          }
+        }
+      ],
+      "parentItemNumber": "105650288",
+      "customerFriendlyDescription": "Nuby Insulated",
+      "itemDescription": "Nuby Insulated Cool Sipper 18+ Months",
+      "netContent": null,
+      "tillDescription": "NUBY COOL SIPPER",
+      "productMarketing": null,
+      "countryOfOrigin": null,
+      "commercialHierarchy": {
+        "division": 8,
+        "divisionName": "Non Food & Services",
+        "group1": 33,
+        "groupName": "Health & Beauty",
+        "department": 193,
+        "departmentName": "271 Baby Accessories",
+        "className": "Cups Baby Accessories",
+        "subclass": 105,
+        "subclassName": "18 Months Cups",
+        "additionalProperties": {},
+        "class1": 12
+      },
+      "status": "A",
+      "brand": "Nuby",
+      "sellingUnitOfMeasure": "EA",
+"isCatchWeight":false
+    },
+    {
+      "itemNumber": "105650297",
+      "legacyItemNumbers": [
+        "2712347"
+      ],
+      "gtins": [
+        {
+          "id": "0048526099536",
+          "type": "EAN13",
+          "additionalProperties": {
+            "isPrimaryBarcode": true
+          }
+        }
+      ],
+      "parentItemNumber": "105650288",
+      "customerFriendlyDescription": "Nuby Insulated1",
+      "itemDescription": "Nuby Insulated Cool Sipper 18+ Months1",
+      "netContent": null,
+      "tillDescription": "NUBY COOL SIPPER",
+      "productMarketing": null,
+      "countryOfOrigin": null,
+      "commercialHierarchy": {
+        "division": 8,
+        "divisionName": "Non Food & Services",
+        "group1": 33,
+        "groupName": "Health & Beauty",
+        "department": 193,
+        "departmentName": "271 Baby Accessories",
+        "className": "Cups Baby Accessories",
+        "subclass": 105,
+        "subclassName": "18 Months Cups",
+        "additionalProperties": {},
+        "class1": 12
+      },
+      "status": "A",
+      "brand": "Nuby",
+      "sellingUnitOfMeasure": "EA",
+"isCatchWeight":false
+    },
+    {
+      "itemNumber": "105650298",
+      "legacyItemNumbers": [
+        "2712348"
+      ],
+      "gtins": [
+        {
+          "id": "0048526099536",
+          "type": "EAN13",
+          "additionalProperties": {
+            "isPrimaryBarcode": true
+          }
+        }
+      ],
+      "parentItemNumber": "105650288",
+      "customerFriendlyDescription": "Nuby Insulated3",
+      "itemDescription": "Nuby Insulated Cool Sipper 18+ Months1",
+      "netContent": null,
+      "tillDescription": "NUBY COOL SIPPER",
+      "productMarketing": null,
+      "countryOfOrigin": null,
+      "commercialHierarchy": {
+        "division": 8,
+        "divisionName": "Non Food & Services",
+        "group1": 33,
+        "groupName": "Health & Beauty",
+        "department": 193,
+        "departmentName": "271 Baby Accessories",
+        "className": "Cups Baby Accessories",
+        "subclass": 105,
+        "subclassName": "18 Months Cups",
+        "additionalProperties": {},
+        "class1": 12
+      },
+      "status": "C",
+      "brand": "Nuby",
+      "sellingUnitOfMeasure": "EA",
+"isCatchWeight":false
+
+    }
+  ],
+  "metadata": {}
+}
